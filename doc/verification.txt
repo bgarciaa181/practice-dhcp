@@ -1,0 +1,1 @@
+Client c1 received dynamic IP and printer reservation set to 192.168.57.111
