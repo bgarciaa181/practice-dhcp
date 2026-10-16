@@ -1,6 +1,6 @@
 Práctica DHCP
 
-Configuración de un servidor DHCP (isc-dhcp-server) en Debian mediante Vagrant.
+Configuración de un servidor DHCP  en Debian mediante Vagrant.
 
 *Datos de la red*
 
